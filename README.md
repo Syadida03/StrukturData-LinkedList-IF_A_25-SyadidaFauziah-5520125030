@@ -1,1 +1,1 @@
-# StrukturData-SingleLinkedList-IF_A_25-SyadidaFauziah-5520125030
+# StrukturData--SyadidaFauziah
